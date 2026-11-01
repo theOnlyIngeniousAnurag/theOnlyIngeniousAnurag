@@ -1,4 +1,15 @@
 
+<div align="center">
+  <img
+    src="https://www.gitskins.com/api/section/neofetch?username=theonlyingeniousanurag&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F180550636%3Fu%3D1df3c6d6ea76d3ba21fa65ffcbf5f9e0fa26a48f%26v%3D4&role=CSE%20%28AI%20%26%20ML%29%20Student%20%7C%20Aspiring%20AI%20Engineer&mode=dark"
+    width="100%"
+    alt="Anurag - Neofetch Developer Profile"
+  />
+</div>
+
+
+
+
 # Hi 👋, I'm Anurag
 
 ### AI & ML Student | Aspiring AI Engineer | Building Intelligent Solutions
