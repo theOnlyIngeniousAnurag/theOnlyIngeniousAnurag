@@ -76,7 +76,7 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="40" height="40"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="40" height="40"/></a>
   <a href="https://react.dev/" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=react" alt="React" width="40" height="40"/></a>
-  <a href="https://reactnative.dev/" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=reactnative" alt="React Native" width="40" height="40"/></a>
+  <a href="https://reactnative.dev/" target="_blank" rel="noopener noreferrer"><img src="[https://skillicons.dev/icons?i=reactnative](https://en.wikipedia.org/wiki/File:React-icon.svg)" alt="React Native" width="40" height="40"/></a>
   <a href="https://nodejs.org/" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="40" height="40"/></a>
   <a href="https://www.djangoproject.com/" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=django" alt="Django" width="40" height="40"/></a>
   <a href="https://flutter.dev/" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" width="40" height="40"/></a>
